@@ -21,7 +21,7 @@ $ cd termux-theme
 $ bash install.sh
 ```
 
-> Get key [click here](https://bit.ly/TokenTermuxTheme)
+> Get Token [click here](https://bit.ly/TokenTermuxTheme)
 
 ![Gpp jelek yg penting bikinan sendiri yahaha ^.^](https://github.com/Sxp-ID/termux-theme/blob/main/.Tools%20Termux%20Theme%20by%20Sanz.png?raw=true)
 
